@@ -1,0 +1,22 @@
+* {
+    background-color:darkviolet
+}
+
+.header {
+    color: goldenrod;
+    -webkit-text-stroke-width: 6px;
+    -webkit-text-stroke-color: #040404;
+    paint-order: stroke;
+      font-family:fantasy;
+      font-size: 40px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+
+}
+
+.all-alone {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
